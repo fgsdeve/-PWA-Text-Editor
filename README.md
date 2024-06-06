@@ -20,7 +20,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/pwa-text-editor.git
+   git clone git@github.com:fgsdeve/-PWA-Text-Editor.git
    cd pwa-text-editor
 
 ## Install dependencies: 
@@ -41,8 +41,7 @@ To set up the project locally, follow these steps:
 ## Usage
 1. To use the application:
 2. Open your browser and navigate to http://localhost:3000.
-3. Sign up for a new account or log in using existing credentials.
-4. Create or edit text documents directly in the browser.
+3. Create or edit text documents directly in the browser.
 
 ## Features
 - Offline capabilities using service workers and IndexedDB.
