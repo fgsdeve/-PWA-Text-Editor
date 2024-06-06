@@ -43,6 +43,7 @@ To set up the project locally, follow these steps:
 2. Open your browser and navigate to http://localhost:3000.
 3. Create or edit text documents directly in the browser.
 
+
 ## Features
 - Offline capabilities using service workers and IndexedDB.
 - CodeMirror integrated text editor with syntax highlighting.
@@ -57,6 +58,7 @@ To set up the project locally, follow these steps:
 - Webpack
 - Babel
 - CodeMirror
-
+## Reander 
+. if you want to check the app on Reander web, https://pwa-text-editor-db8k.onrender.com.
 ## License
 This project is licensed under the MIT License.
