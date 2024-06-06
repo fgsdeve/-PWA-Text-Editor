@@ -33,7 +33,7 @@ To set up the project locally, follow these steps:
 - npm run seed
 
 ## Build the client:
-- Build the client:
+- npm run build:
 
 ## Start the server:
 - npm run start
