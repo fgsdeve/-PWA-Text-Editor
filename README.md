@@ -59,6 +59,6 @@ To set up the project locally, follow these steps:
 - Babel
 - CodeMirror
 ## Reander 
-. if you want to check the app on Reander web, https://pwa-text-editor-db8k.onrender.com.
+- If you want to check the app on Reander web, https://pwa-text-editor-db8k.onrender.com.
 ## License
 This project is licensed under the MIT License.
