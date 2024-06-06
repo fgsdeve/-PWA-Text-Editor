@@ -24,10 +24,10 @@ To set up the project locally, follow these steps:
    cd pwa-text-editor
 
 ## Install dependencies: 
-1- npm install
-2- cd client
-3- npm install
-4- cd ..
+1. npm install
+2. cd client
+3. npm install
+4. cd ..
 
 ## Seed the database:
 - npm run seed
@@ -39,10 +39,10 @@ To set up the project locally, follow these steps:
 - npm run start
 
 ## Usage
-1- To use the application:
-2- Open your browser and navigate to http://localhost:3000.
-3- Sign up for a new account or log in using existing credentials.
-4- Create or edit text documents directly in the browser.
+1. To use the application:
+2. Open your browser and navigate to http://localhost:3000.
+3. Sign up for a new account or log in using existing credentials.
+4. Create or edit text documents directly in the browser.
 
 ## Features
 - Offline capabilities using service workers and IndexedDB.
